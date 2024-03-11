@@ -30,6 +30,8 @@ mongoose.connect(
   // "mongodb+srv://exp:exp123@clusterexp.xw5sehz.mongodb.net/session-exp?retryWrites=true&w=majority",
   "mongodb+srv://exp:explore@explorecluster.yweprwi.mongodb.net/expdb?retryWrites=true&w=majority",
   // "mongodb+srv://exp:exp@cluster0.wpeuved.mongodb.net/session-exp?retryWrites=true&w=majority",
+  // "mongodb+srv://exp:explore@cluster0.jxld2gx.mongodb.net/explore?retryWrites=true&w=majority",
+  // "mongodb+srv://explore:explore@cluster0.jxld2gx.mongodb.net/expdb?retryWrites=true&w=majority&appName=Cluster0",
   {
     useNewUrlParser: true,
     useUnifiedTopology: true,
